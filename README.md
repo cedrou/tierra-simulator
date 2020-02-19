@@ -1,0 +1,1 @@
+This is a backup of the Tierra Simulator by Tom Ray from http://life.ou.edu/tierra/
